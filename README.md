@@ -1,2 +1,2 @@
-# Fangxinyouxuan_manager
-The mobile web project of Funxinyouxuan
+# 放心优选店主端
+一个面向移动端开发的H5页面，基于微信应用场景，为店主提供简单的店铺管理功能。
